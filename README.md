@@ -101,13 +101,6 @@ A self-built, fully documented cybersecurity lab designed to simulate real-world
 
 ---
 
-## 🗂️ Documentation
-
-- [`Full_Lab_Setup.md`](Documentation/Full_Lab_Setup.md) — Everything, step by step
-- [`Wazuh_Installation.md`](Documentation/Wazuh_Installation.md)
-- [`Portainer_Config.md`](Documentation/Portainer_Config.md)
-
----
 
 ## 🙌 Credits & Reference
 
